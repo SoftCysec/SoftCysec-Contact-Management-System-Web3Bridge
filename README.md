@@ -6,7 +6,7 @@ This a basic crud react-redux application for managing contacts. It currently us
 ##  How to install
 
 ```bash
-git clone git@github.com:brandiqa/react-contact-manager.git
+git clone git@github.com:SoftCysec/Contact-Management-System-Web3Bridge.git
 cd react-contact-manager
 
 # Install frontend dependencies
