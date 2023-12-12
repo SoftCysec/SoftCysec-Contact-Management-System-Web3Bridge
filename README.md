@@ -1,4 +1,4 @@
-# REACT CONTACT MANAGER
+# CONTACT MANAGER SYSTEM
 
 ## Introduction
 This a basic crud react-redux application for managing contacts. It currently uses mongodb for the server and featherjs as the rest backend server.
