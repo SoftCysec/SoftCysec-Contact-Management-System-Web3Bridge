@@ -1,7 +1,7 @@
 {
     "host": "backend-app.feathersjs.com",
     "port": 80,
-    "mongodb": "mongodb+srv://softcysec:poiuytr098@cluster0.rhpwxxg.mongodb.net/api?retryWrites=true&w=majority",
+    "mongodb": "mongodb://localhost:27017/contact_manager",
     "public": "../public/",
     "auth": {
         "token": {
